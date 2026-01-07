@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenson(Junjian)</h1>
-<h3 align="center">Currently graduate student passionated in robotics and mechatronics</h3>
+
 
 <!--
 **Jhwils/Jhwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,27 +23,6 @@ Here are some ideas to get you started:
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Jhwils&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
-
-## 🤺 About Me
-- :hearts: Passionate about Robotics and Mechatronics. 
-- :1st_place_medal: My projects are trusted by developers.
-- :sun_with_face: Highlights of my successful endeavors.
-
-## 🏢 Work Experience
-
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" /> -->
-
-- [Retoo Intelligence](http://www.retoomv.com/) &emsp; 📌 2025-06-04 —— 2024-08-04
-
-  - Job Position：Embedded Software Engineer intern
-  - Job duties：软件开发与维护
-
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" /> -->
-
-- [Zoomlion Heavy Industry Science and Technology](https://www.zoomlion.com/) &emsp; 📌 2024-06-10 —— 2024-08-06
-
-  - Job Position：Assistant Technician
-  - Job duties：一些杂活
 
 </td></tr>
 
