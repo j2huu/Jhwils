@@ -14,7 +14,7 @@
 <br>
 
 ## 🤖 About Me
-I am currently pursuing my Master's degree in **Mechanical Engineering and Applied Mechanics (MEAM)** at the **University of Pennsylvania**, specializing in Robotics. 
+I am currently pursuing my Master's degree in **Mechanical Engineering and Applied Mechanics (MEAM)** at the **University of Pennsylvania**, specializing in Mechatronics and Robotics. 
 
 - 🔭 I’m currently working on **Motion Planning & Control for articulated robots**.
 - 🎓 I hold a Bachelor's degree from **Dalian University of Technology**.
