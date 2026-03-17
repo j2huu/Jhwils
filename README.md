@@ -47,7 +47,7 @@ I am currently pursuing my Master's degree in **Mechanical Engineering and Appli
     <td width="33%">
       <h3 align="center">🛸 Quadrotor Navigation</h3>
       <div align="center">
-        <img src="https://github.com/Jhwils/Jhwils/blob/9f4dc12b6596e54107a65219191d0766ad759289/assets/quad.gif" alt="Quadrotor Project" width="50%" />
+        <img src="https://github.com/Jhwils/Jhwils/blob/779e1c4a33091678eafbbd2ec8360c1ed575f0fe/assets/trajplanning3.gif" alt="Quadrotor Project" width="90%" />
       </div>
       <p>
         Implemented <b>A* path planning</b> and <b>Minimum Snap</b> trajectory generation for smooth 3D navigation and obstacle avoidance.
