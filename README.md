@@ -118,5 +118,5 @@ I am currently pursuing my Master's degree in **Mechanical Engineering and Appli
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jhwils&label=Profile%20Views&color=orange&style=flat-square" alt="访问量统计" />
   <br><br>
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhwils&theme=github-compact&hide_border=true&area=true" />
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=j2huu&theme=github-compact&hide_border=true&area=true" />
 </div>
